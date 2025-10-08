@@ -4,7 +4,7 @@ This repository contains a **pre-prompt for generating pseudo-random numbers** w
 
 ---
 
-## Usage
+## future goals
 
 goal is to make a random number each time with a preprompted seed for like d&d dice rolls within a single llm context, seems to work just fine, my goals would be to shorten it and expand its adaptability to other sized number ranges
 
