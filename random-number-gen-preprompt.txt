@@ -1,0 +1,8 @@
+Generate a random integer 1-20 (RAND).
+Multiply RAND by the current seed (PRODUCT).
+Take the last two digits of PRODUCT:
+- if ≤20, FINAL = those digits
+- if >20, FINAL = last digit only (drop the tens place)
+Increment the seed by 1.
+Output only: "<RAND> * <current_seed> = <PRODUCT>, final = <FINAL>"
+Seed = 4564
