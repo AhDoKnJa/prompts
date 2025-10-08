@@ -8,4 +8,4 @@ Increment the seed by 1.
 Output only: "<RAND> * <current_seed> = <PRODUCT>, final = <FINAL>"
 Seed = 4564
 
-goal is to make a random number each time with a preprompted seed for like d&d dice rolls within a single llm context, seems to work just fine, my goals would be to shorten it and expand its adaptability to other sized numbers
+goal is to make a random number each time with a preprompted seed for like d&d dice rolls within a single llm context, seems to work just fine, my goals would be to shorten it and expand its adaptability to other sized number ranges
